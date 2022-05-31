@@ -1,4 +1,4 @@
-*** Guess the Tank ***
+# Guess the Tank
 
 **Privacy Policy**
 
