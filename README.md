@@ -1,66 +1,91 @@
-# Guess the Tank
+# MilSIT – Privacy Policy
 
-**Privacy Policy**
+[Deutsche Fassung unten](#milsit--datenschutzerklärung)
 
-Moritz Sümmermann built the Guess the Tank app as a Free app. This SERVICE is provided by Moritz Sümmermann at no cost and is intended for use as is.
+This privacy policy covers the Android apps **MilSIT** and **MilSIT pro** (formerly Guess the Tank).
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+**Controller**
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+Oberon Systems GmbH
+Theodolindenplatz 4
+81545 München, Germany
+Represented by: Moritz Sümmermann
+Email: milsit@oberon-systems.de
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Guess the Tank unless otherwise defined in this Privacy Policy.
+**What the app stores on your device**
 
-**Information Collection and Use**
+Your settings, highscores and how many games you have played are stored only on your device. The vehicle data and photos are downloaded from our server (geckolution.de). Like any web server, it briefly processes your device's IP address to deliver them.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+**Usage statistics (both apps)**
 
-The app does use third-party services that may collect information used to identify you.
+We use Google Analytics for Firebase to learn how the app is used and improve it: which game modes and settings are played, which vehicles and photos are answered correctly or confused with others, how long answers take, what is looked up in Look Up (including search terms), the app version and whether it is MilSIT or MilSIT pro. Google assigns a random app-instance ID to your installation and derives an approximate location (country/region) from your masked IP address. We do not use the advertising ID, and the data is not linked to your name or email address. Legal basis: our legitimate interest in improving the app (Art. 6(1)(f) GDPR). Analytics data is kept only as long as needed for this purpose and then deleted.
 
-Link to the privacy policy of third-party service providers used by the app
+**Duels (MilSIT pro only)**
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
+To play duels, the app creates an account for you at Google Firebase (servers in the EU, Frankfurt). We store a random user ID, the duel name you choose, your duels (questions, answers, results) and your statistics. If you link a Google account, we also store its email address. For notifications, we store your device's push token and language. Other players see your duel name and, in duels with you, your answers once they have played the round themselves. Firebase App Check (Google Play Integrity) verifies that requests come from the genuine app. Legal basis: providing the duels you asked for (Art. 6(1)(b) GDPR).
 
-**Log Data**
+You can delete your account at any time in the app (Duels → your account → Delete account) or by emailing milsit@oberon-systems.de; see [how to delete your account](https://oberon-systems.de/milsit/delete-account/). This deletes your account, profile, duel name, linked email address, statistics, open invites and the push tokens of your devices. Duels you played stay with your opponents, without your name ("Deleted player"). Unused invite codes and searches for an opponent are deleted automatically after 7 days and 24 hours.
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+**Service providers**
 
-**Cookies**
+Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland, processes the data above on our behalf (Firebase, Google Analytics, Google Play services). Data may also be processed by Google LLC in the USA, which is certified under the EU–US Data Privacy Framework. See [Google's privacy policy](https://policies.google.com/privacy) and [Firebase privacy](https://firebase.google.com/support/privacy). We do not sell your data or use it for advertising.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+**Your rights**
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+You have the right to access, rectify and erase your data, to restrict its processing, to data portability and to object to processing based on legitimate interest (Art. 15–21 GDPR). To exercise them, email milsit@oberon-systems.de. You may also lodge a complaint with a supervisory authority, for example the Bayerisches Landesamt für Datenschutzaufsicht (BayLDA).
 
-**Service Providers**
+**Children**
 
-I may employ third-party companies and individuals due to the following reasons:
+The app is not directed at children under 16.
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+**Changes**
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+We will post changes to this policy on this page.
 
-**Security**
+Effective: 2026-11-08
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+---
 
-**Links to Other Sites**
+# MilSIT – Datenschutzerklärung
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Diese Datenschutzerklärung gilt für die Android-Apps **MilSIT** und **MilSIT pro** (früher Guess the Tank).
 
-**Children’s Privacy**
+**Verantwortlicher**
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+Oberon Systems GmbH
+Theodolindenplatz 4
+81545 München
+Vertreten durch: Moritz Sümmermann
+E-Mail: milsit@oberon-systems.de
 
-**Changes to This Privacy Policy**
+**Was die App auf deinem Gerät speichert**
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+Deine Einstellungen, Highscores und wie viele Spiele du gespielt hast, werden nur auf deinem Gerät gespeichert. Die Fahrzeugdaten und Fotos werden von unserem Server (geckolution.de) geladen. Wie jeder Webserver verarbeitet er dafür kurz die IP-Adresse deines Geräts.
 
-This policy is effective as of 2022-05-31
+**Nutzungsstatistik (beide Apps)**
 
-**Contact Us**
+Wir nutzen Google Analytics for Firebase, um zu verstehen, wie die App genutzt wird, und sie zu verbessern: welche Spielmodi und Einstellungen gespielt werden, welche Fahrzeuge und Fotos richtig beantwortet oder verwechselt werden, wie lange Antworten dauern, was unter Nachschlagen nachgeschlagen wird (auch Suchbegriffe), die App-Version und ob es MilSIT oder MilSIT pro ist. Google vergibt deiner Installation eine zufällige App-Instanz-ID und leitet aus deiner gekürzten IP-Adresse einen ungefähren Standort (Land/Region) ab. Wir nutzen die Werbe-ID nicht, und die Daten werden nicht mit deinem Namen oder deiner E-Mail-Adresse verknüpft. Rechtsgrundlage: unser berechtigtes Interesse an der Verbesserung der App (Art. 6 Abs. 1 lit. f DSGVO). Die Statistikdaten werden nur so lange aufbewahrt, wie es dafür nötig ist, und dann gelöscht.
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at moritz.suemmermann@geckolution.de.
+**Duelle (nur MilSIT pro)**
 
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+Für Duelle legt die App ein Konto bei Google Firebase an (Server in der EU, Frankfurt). Wir speichern eine zufällige Nutzer-ID, deinen gewählten Duellnamen, deine Duelle (Fragen, Antworten, Ergebnisse) und deine Statistik. Wenn du ein Google-Konto verknüpfst, zusätzlich dessen E-Mail-Adresse. Für Benachrichtigungen speichern wir das Push-Token und die Sprache deines Geräts. Andere Spieler sehen deinen Duellnamen und, in Duellen mit dir, deine Antworten, nachdem sie die Runde selbst gespielt haben. Firebase App Check (Google Play Integrity) prüft, ob Anfragen von der echten App kommen. Rechtsgrundlage: die Bereitstellung der Duelle, die du nutzen möchtest (Art. 6 Abs. 1 lit. b DSGVO).
+
+Du kannst dein Konto jederzeit in der App löschen (Duelle → dein Konto → Konto löschen) oder per E-Mail an milsit@oberon-systems.de; siehe [Konto löschen](https://oberon-systems.de/milsit/delete-account/). Gelöscht werden dein Konto, Profil, Duellname, die verknüpfte E-Mail-Adresse, deine Statistik, offene Einladungen und die Push-Tokens deiner Geräte. Gespielte Duelle bleiben bei deinen Gegnern, ohne deinen Namen („Gelöschter Spieler“). Unbenutzte Einladungscodes und Gegnersuchen werden nach 7 Tagen bzw. 24 Stunden automatisch gelöscht.
+
+**Dienstleister**
+
+Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, verarbeitet die oben genannten Daten in unserem Auftrag (Firebase, Google Analytics, Google-Play-Dienste). Die Daten können auch von Google LLC in den USA verarbeitet werden, die nach dem EU-US Data Privacy Framework zertifiziert ist. Siehe [Datenschutzerklärung von Google](https://policies.google.com/privacy) und [Datenschutz bei Firebase](https://firebase.google.com/support/privacy). Wir verkaufen deine Daten nicht und nutzen sie nicht für Werbung.
+
+**Deine Rechte**
+
+Du hast das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch gegen Verarbeitungen aufgrund berechtigten Interesses (Art. 15–21 DSGVO). Schreib dazu an milsit@oberon-systems.de. Du kannst dich außerdem bei einer Aufsichtsbehörde beschweren, zum Beispiel beim Bayerischen Landesamt für Datenschutzaufsicht (BayLDA).
+
+**Kinder**
+
+Die App richtet sich nicht an Kinder unter 16 Jahren.
+
+**Änderungen**
+
+Änderungen dieser Datenschutzerklärung veröffentlichen wir auf dieser Seite.
+
+Stand: 2026-11-08
